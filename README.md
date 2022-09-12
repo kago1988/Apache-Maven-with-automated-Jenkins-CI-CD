@@ -1,6 +1,3 @@
-## Fizz Buzz Example in Java 8 using JUnit 5
+## Java (Maven) with automated Jenkins CI/CD 
 
-### Fizz Buzz is a game where
-- if the number is divisible by 3, you say Fizz
-- if the number is divisible by 5, you say Buzz
-- if neither, you say the number
+This repository shows an example on how to to automate the Jenkins CI/CD for a Java (Maven) project. 
